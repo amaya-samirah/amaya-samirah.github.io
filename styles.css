@@ -1,0 +1,29 @@
+/* p {
+    text-align: center;
+    color: red;
+}
+
+#para1 {
+    text-align: center;
+    color: blue;
+}
+
+.center {
+    text-align: center;
+    color:green;
+} */
+
+body {
+    background: pink;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+.about {
+    background: paleturquoise;
+}
