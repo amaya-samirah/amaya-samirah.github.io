@@ -35,8 +35,8 @@ titles {
 }
 
 .project img{
-    width: 200px;
-    height: 250px;
+    width: 250px;
+    height: 300px;
     margin: 10px;
     border: 2px solid aliceblue; /* choose a color */
     display: block;
