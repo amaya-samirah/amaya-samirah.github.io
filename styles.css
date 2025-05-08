@@ -47,11 +47,11 @@ p {
     color: aliceblue;
 }
 
-/*.project img{
-    width: 300px;
-    height: 300px;
+.project img {
+    width: 400px;
+    height: 400px;
     margin: 10px;
     border: 2px solid aliceblue;
     display: block;
     margin: auto;
-} */
+}
