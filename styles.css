@@ -30,15 +30,10 @@ h2 {
 }
 
 h3 {
-    color: aliceblue;
+    color: rgb(207, 167, 220);
 }
 
 titles {
-    color: aliceblue;
-    text-align: left;
-}
-
-links {
     color: aliceblue;
     text-align: left;
 }
@@ -51,6 +46,5 @@ p {
     width: 30%;
     margin: 10px;
     border: 2px solid aliceblue;
-    display: block;
-    margin: auto;
+    background: rgb(186, 225, 222);
 }
