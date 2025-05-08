@@ -34,6 +34,11 @@ titles {
     text-align: left;
 }
 
+links {
+    color: aliceblue;
+    text-align: left;
+}
+
 .project img{
     width: 250px;
     height: 300px;
