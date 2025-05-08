@@ -48,8 +48,7 @@ p {
 }
 
 .project img {
-    width: 400px;
-    height: 400px;
+    width: 30%;
     margin: 10px;
     border: 2px solid aliceblue;
     display: block;
