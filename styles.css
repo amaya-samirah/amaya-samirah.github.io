@@ -24,20 +24,16 @@ h1 {
     text-align: center;
 }
 
-title {
+h2 {
     color: aliceblue;
-    text-align: center;
-}
-
-.about {
-    background: paleturquoise;
+    text-align: left;
 }
 
 .project img{
-    width: 300px;
+    width: 200px;
     height: 300px;
     margin: 10px;
-    border: 2px solid rgb(126, 14, 201); /* choose a color */
+    border: 2px solid aliceblue; /* choose a color */
     display: block;
     margin: auto;
 }
