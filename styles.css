@@ -29,6 +29,10 @@ h2 {
     text-align: left;
 }
 
+h3 {
+    color: aliceblue;
+}
+
 titles {
     color: aliceblue;
     text-align: left;
@@ -39,15 +43,15 @@ links {
     text-align: left;
 }
 
-.project p {
+p {
     color: aliceblue;
 }
 
-.project img{
+/*.project img{
     width: 300px;
     height: 300px;
     margin: 10px;
-    border: 2px solid aliceblue; /* choose a color */
+    border: 2px solid aliceblue;
     display: block;
     margin: auto;
-}
+} */
