@@ -29,9 +29,14 @@ h2 {
     text-align: left;
 }
 
+titles {
+    color: aliceblue;
+    text-align: left;
+}
+
 .project img{
     width: 200px;
-    height: 300px;
+    height: 250px;
     margin: 10px;
     border: 2px solid aliceblue; /* choose a color */
     display: block;
