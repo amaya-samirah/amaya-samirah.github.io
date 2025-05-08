@@ -39,8 +39,12 @@ links {
     text-align: left;
 }
 
+.project p {
+    color: aliceblue;
+}
+
 .project img{
-    width: 250px;
+    width: 300px;
     height: 300px;
     margin: 10px;
     border: 2px solid aliceblue; /* choose a color */
