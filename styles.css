@@ -42,8 +42,14 @@ p {
     color: aliceblue;
 }
 
+a {  /* change the appearance of ALL links */
+    text-decoration: none;
+    color: rgb(207, 167, 220);
+}
+
+
 .project img {
-    width: 30%;
+    width: 40%;
     margin: 10px;
     border: 2px solid aliceblue;
     background: rgb(186, 225, 222);
