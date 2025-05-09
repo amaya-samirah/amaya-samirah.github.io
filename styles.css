@@ -76,7 +76,8 @@ about img {
     line-height: 125%;
 }
 
-.contact img {
-    width: 5px;
-    height: 5px;
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
 }
