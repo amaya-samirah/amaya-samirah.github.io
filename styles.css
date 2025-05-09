@@ -77,7 +77,7 @@ about img {
 }
 
 .column {
-    float:center;
+    float:left;
     width: 20%;
     padding: 3px;
 }
