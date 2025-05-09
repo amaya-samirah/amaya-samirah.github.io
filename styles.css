@@ -47,7 +47,6 @@ a {  /* change the appearance of ALL links */
     color: rgb(207, 167, 220);
 }
 
-
 .project img {
     width: 40%;
     margin: 10px;
@@ -77,3 +76,6 @@ about img {
     line-height: 125%;
 }
 
+.contact img {
+    width: 20%;
+}
